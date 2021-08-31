@@ -1,4 +1,5 @@
 - 👋 Hi, I’m sue!
+- 🏫 The Department of Information Security, Cryptology, and Mathematics in Kookmin University (minor : software)
 - 👀 I’m interested in Coding💻
 - 🌱 I’m currently learning Frontend
 - 📫 How to reach me 
