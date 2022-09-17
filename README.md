@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sukyeong Bang(Bea)!
+- 👋 Hi, I’m Su-kyeong Bang(Bea)!
 - 🏫 Major : The Department of Information Security, Cryptology, and Mathematics in Kookmin University
 - 🏫 Minor : Computer Science in Kookmin University
 - 👀 I’m interested in Coding💻 and Cryptology🔑
